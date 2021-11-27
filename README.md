@@ -16,5 +16,8 @@
 - [x] 👷🏻‍♂️ Team section
 - [x] 📍 Footer section - 📱 Contact
 
+## Buy me a coffee
+[![Buy me a coffee](https://img.shields.io/badge/buy-me-a-coffee-green.svg)](https://gumroad.com/l/ePmeE)
+
 ## Screenshots
 [![Full page screenshot](https://raw.githubusercontent.com/git-kamesh/classic-landing/main/screenshot.png)](https://raw.githubusercontent.com/git-kamesh/classic-landing/main/screenshot.png)
