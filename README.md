@@ -17,7 +17,7 @@
 - [x] 📍 Footer section - 📱 Contact
 
 ## Buy me a coffee
-[![Buy me a coffee](https://img.shields.io/badge/coffee-Buy%20me%20a%20coffee-brown)](https://gumroad.com/l/ePmeE)
+[![Buy me a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-brown)](https://gumroad.com/l/ePmeE)
 
 ## Screenshots
 [![Full page screenshot](https://raw.githubusercontent.com/git-kamesh/classic-landing/main/screenshot.png)](https://raw.githubusercontent.com/git-kamesh/classic-landing/main/screenshot.png)
